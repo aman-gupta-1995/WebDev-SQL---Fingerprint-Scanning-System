@@ -10,7 +10,7 @@ React Native Fingerprint Scanner is a [React Native](http://facebook.github.io/r
 
 - [Installation](#installation)
 - [Compatibility](#compatibility)
-- [Example](#example)  
+- [Example](#example)   
 - [API](#api)
 - [License](#license)
 
