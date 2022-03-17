@@ -7,7 +7,7 @@ buildscript {
     // This avoids unnecessary downloads and potential conflicts when the library is included as a 
     // module dependency in an application project.
     if (project == rootProject) { 
-        repositories {
+        repositories { 
             google()
             jcenter()
         }
