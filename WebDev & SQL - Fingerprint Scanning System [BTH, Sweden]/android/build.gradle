@@ -8,7 +8,7 @@ buildscript {
     // module dependency in an application project.
     if (project == rootProject) { 
         repositories { 
-            google()
+            google() 
             jcenter()
         } 
  
