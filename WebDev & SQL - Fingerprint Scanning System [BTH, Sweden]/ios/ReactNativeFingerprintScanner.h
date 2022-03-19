@@ -2,7 +2,7 @@
 #import <React/RCTBridgeModule.h>
 #else // React Native < 0.40
 #import "RCTBridgeModule.h"
-#endif
+#endif 
 #import <LocalAuthentication/LocalAuthentication.h>
 
 @interface ReactNativeFingerprintScanner : NSObject <RCTBridgeModule>
