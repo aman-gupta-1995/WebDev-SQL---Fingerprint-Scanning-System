@@ -5,6 +5,6 @@
 #endif 
 #import <LocalAuthentication/LocalAuthentication.h>
  
-@interface ReactNativeFingerprintScanner : NSObject <RCTBridgeModule> 
+@interface ReactNativeFingerprintScanner : NSObject <RCTBridgeModule>  
 	- (NSString *_Nonnull)getBiometryType:(LAContext *_Nonnull)context;b
 @end
