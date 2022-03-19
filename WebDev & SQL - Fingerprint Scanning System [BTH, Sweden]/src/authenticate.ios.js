@@ -13,6 +13,6 @@ export default ({ description = ' ', fallbackEnabled = true }) => {
       return resolve(true);
     });
   });
-} 
+}
  
  
