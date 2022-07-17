@@ -5,7 +5,7 @@ module.exports = {
       android: {},    
     },      
     assets: [],  
-    // hooks are considered anti-pattern, please avoid them
+    // hooks are considered anti-pattern, please avoid them 
     hooks: {},
   },
 };
