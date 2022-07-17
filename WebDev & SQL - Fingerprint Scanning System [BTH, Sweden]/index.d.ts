@@ -27,7 +27,7 @@ export type Errors =
   | {
       name: 'UserFallback';
       message: 'Authentication was canceled because the user tapped the fallback button (Enter Password)';
-    }
+    } 
   | {
       name: 'SystemCancel';
       message: 'Authentication was canceled by system - e.g. if another application came to foreground while the authentication dialog was up';
