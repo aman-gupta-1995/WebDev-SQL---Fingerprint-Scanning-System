@@ -10,7 +10,7 @@
     "react",
     "native", 
     "touch",
-    "touchid",
+    "touchid", 
     "touch-id",
     "fingerprint",
     "fingerprint-scanner",
