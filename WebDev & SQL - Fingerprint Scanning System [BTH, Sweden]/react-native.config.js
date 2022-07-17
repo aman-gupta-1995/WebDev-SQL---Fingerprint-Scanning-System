@@ -4,7 +4,7 @@ module.exports = {
       ios: {},  
       android: {},   
     },   
-    assets: [],
+    assets: [], 
     // hooks are considered anti-pattern, please avoid them
     hooks: {},
   },
