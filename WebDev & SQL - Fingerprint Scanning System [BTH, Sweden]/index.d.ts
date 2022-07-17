@@ -1,7 +1,7 @@
 export type AuthenticateIOS = {
   description: string;
   fallbackEnabled: boolean;
-};
+}; 
 export type AuthenticateAndroid = { onAttempt: (error: FingerprintScannerError) => void };
 
 export type Biometrics = 'Touch ID' | 'Face ID' | 'Biometrics';
