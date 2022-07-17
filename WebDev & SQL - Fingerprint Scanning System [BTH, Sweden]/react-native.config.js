@@ -2,7 +2,7 @@ module.exports = {
   dependency: { 
     platforms: {
       ios: {}, 
-      android: {},
+      android: {}, 
     },
     assets: [],
     // hooks are considered anti-pattern, please avoid them
