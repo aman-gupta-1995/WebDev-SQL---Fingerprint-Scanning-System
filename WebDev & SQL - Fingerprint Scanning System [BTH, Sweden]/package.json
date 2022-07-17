@@ -11,7 +11,7 @@
     "native", 
     "touch",
     "touchid", 
-    "touch-id",
+    "touch-id", 
     "fingerprint",
     "fingerprint-scanner",
     "authentication",
