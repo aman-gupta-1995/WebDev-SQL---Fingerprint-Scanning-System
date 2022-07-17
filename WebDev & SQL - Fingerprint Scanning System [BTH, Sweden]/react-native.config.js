@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = { 
   dependency: { 
     platforms: { 
       ios: {}, 
