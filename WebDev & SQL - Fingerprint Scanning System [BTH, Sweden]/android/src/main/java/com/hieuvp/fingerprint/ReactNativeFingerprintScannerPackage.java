@@ -1,4 +1,4 @@
-package com.hieuvp.fingerprint;
+package com.hieuvp.fingerprint; 
  
 import com.facebook.react.ReactPackage; 
 import com.facebook.react.bridge.JavaScriptModule;   
