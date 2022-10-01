@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {
   Image,
   Text,
-  TouchableOpacity,
+  TouchableOpacity, 
   View,
   AppState
 } from 'react-native';
